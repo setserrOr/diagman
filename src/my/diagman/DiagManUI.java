@@ -152,7 +152,7 @@ public class DiagManUI extends javax.swing.JFrame
         jTextArea1.setEditable(false);
         jTextArea1.setColumns(20);
         jTextArea1.setRows(5);
-        jTextArea1.setText("Created by Orestis Moresis, Konstantinos Konstantinou \nand Lefteris Kasos.\n\nIn regards to software technology course Unipi 2016\n\nMedical Center manager\n");
+        jTextArea1.setText("First program created by Orestis Moresis. Read LICENCE.txt\nfor more information. The creators do not hold reliability for any\ndamage caused by the software. The software comes with\nno Warranty.\nFor more information contact info@cookiejar.gr\n\nDiagnostic Exams Manager 2016 Version: 0.1\n");
         jScrollPane3.setViewportView(jTextArea1);
 
         jButton7.setText("Close");

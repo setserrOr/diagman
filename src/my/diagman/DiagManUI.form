@@ -49,7 +49,7 @@
                 <Property name="editable" type="boolean" value="false"/>
                 <Property name="columns" type="int" value="20"/>
                 <Property name="rows" type="int" value="5"/>
-                <Property name="text" type="java.lang.String" value="Created by Orestis Moresis, Konstantinos Konstantinou &#xa;and Lefteris Kasos.&#xa;&#xa;In regards to software technology course Unipi 2016&#xa;&#xa;Medical Center manager&#xa;"/>
+                <Property name="text" type="java.lang.String" value="First program created by Orestis Moresis. Read LICENCE.txt&#xa;for more information. The creators do not hold reliability for any&#xa;damage caused by the software. The software comes with&#xa;no Warranty.&#xa;For more information contact info@cookiejar.gr&#xa;&#xa;Diagnostic Exams Manager 2016 Version: 0.1&#xa;"/>
               </Properties>
             </Component>
           </SubComponents>
